@@ -1,17 +1,17 @@
 ---
 
-# 𓂀 Senku WhatsApp Bot v5.2.0 𓂀
+# LICHT-DANNY WhatsApp Bot v5.2.0 𓂀
 
 A **feature-rich WhatsApp bot** built with **Node.js** and **https://github.com/WhiskeySockets/Baileys**, packed with automation, media handling, search tools, and group management commands.
 
-> **Powered by Senku Tech 🥷🏾**
+> **POWERED BY LICHT-DANNY 🥷🏾**
 
 ---
 
 ## 🌟 Bot Overview
 
 * **Prefix:** Configurable per user
-* **Owner:** 𓂀 Danscot𓂀
+* **Owner:** 𓂀 DEV DANNY 𓂀
 * **Version:** 5.2.0
 * **Plugins:** 63
 * **Type:** X-MD 
@@ -22,7 +22,7 @@ A **feature-rich WhatsApp bot** built with **Node.js** and **https://github.com/
 
 ## 🖼 Menu Preview
 
-![Menu Preview](menu.jpg)
+![Menu Preview](1.jpg)
 
 ```
 ╭─────────────────╮
@@ -159,7 +159,7 @@ npm start
 ## 🛡 Notes & Tips
 
 * **Admin Only:** Commands like `antilink`, `kick`, `promote`, `demote` require group admin privileges.
-* **Media:** Sends menu image (`menu.jpg`) and audio (`menu.mp3`) for a richer experience.
+* **Media:** Sends menu image (`2.jpg`) and audio (`menu.mp3`) for a richer experience.
 * **Responsible Use:** Designed for **educational and personal purposes**. Avoid spamming or misuse.
 * **Custom Prefix:** Users can set a custom prefix via `setprefix`.
 
